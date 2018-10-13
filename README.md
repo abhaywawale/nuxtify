@@ -1,4 +1,4 @@
-# nuxtify
+# Nuxtify
 
 > Nuxt.js and Vuetify.js project
 
