@@ -19,5 +19,6 @@ $ yarn start
 $ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
-"# nuxtify" 
+For detailed explanation on how things work in Nuxt.js, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+For detailed explanation on how things work in Vuetify.js, checkout [Vuetify.js docs](https://vuetifyjs.com).
